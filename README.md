@@ -1,20 +1,15 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the software that you wrote to demonstrate the C++ language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+The goal for this project was to learn C++ and demonstrate what I learned through implementation.
+The implementation took for in a game of Tic Tac Toe as it includes a vast amount of concepts I learned.
+Concepts range from: Utilizing correct Syntax, Input/Output, Arrays, Loops.
+I hope that someone might find this code useful in seeing how all those concepts can make something simple and neat.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+This program was developed with the C++ language
+Utilizing VS CODE
+Mingw will need to be installed
 
 # Useful Websites
 
@@ -22,9 +17,4 @@
  *Official Documentation https://code.visualstudio.com/docs/languages/cpp 
  *Additional C++ support https://www.w3schools.com/CPP/default.asp
 
-# Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
